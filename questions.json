@@ -1,0 +1,228 @@
+{
+  "heading": "G6_Sequence Of Transformations",
+  "topics": [
+    {
+      "heading": "Sequence Of Transformations",
+      "questions": [
+
+  {
+    "questionNo": 1,
+    "question": [
+      "Write the three transformations shown in the given figure."
+    ],
+    "options": [
+      {
+        "text": "Rotation, then reflection, then translation"
+      },
+      {
+        "text": "Reflection, then rotation, then translation"
+      },
+      {
+        "text": "Rotation, then translation, then reflection"
+      },
+      {
+        "text": "Reflection, then translation, then rotation"
+      }
+    ],
+    "answer": 0,
+    "image" : "./assests/images/question/1.png"
+  },
+  {
+    "questionNo": 2,
+    "question": [
+      "Write the three transformations shown in the given figure."
+    ],
+    "options": [
+      {
+        "text": "Translation, then rotation, then reflection"
+      },
+      {
+        "text": "Translation, then reflection, then rotation"
+      },
+      {
+        "text": "Reflection, then rotation, then translation"
+      },
+      {
+        "text": "Rotation, then reflection, then translation"
+      }
+    ],
+    "answer": 0,
+    "image" : "./assests/images/question/2.png"
+  },
+  {
+    "questionNo": 3,
+    "question": [
+      "Write the three transformations shown in the given figure."
+    ],
+    "options": [
+      {
+        "text": "Translation, then rotation, then reflection"
+      },
+      {
+        "text": "Rotation, then translation, then reflection"
+      },
+      {
+        "text": "Reflection, then rotation, then translation"
+      },
+      {
+        "text": "Reflection, then translation, then rotation"
+      }
+    ],
+    "answer": 3,
+    "image" : "./assests/images/question/3.png"
+  },
+  {
+    "questionNo": 4,
+    "question": [
+      "What transformations would be needed to get from P to Q?"
+    ],
+    "options": [
+      {
+        "text": "Two reflections"
+      },
+      {
+        "text": "Two translations"
+      },
+      {
+        "text": "Three reflections"
+      },
+      {
+        "text": "Reflection and translation"
+      }
+    ],
+    "answer": 3,
+    "image" : "./assests/images/question/4.png"
+  },
+  {
+    "questionNo": 5,
+    "question": [
+      "What transformations would be needed to get from P to Q?"
+    ],
+    "options": [
+      {
+        "text": "Two reflections"
+      },
+      {
+        "text": "Translation and reflection"
+      },
+      {
+        "text": "Reflection and rotation"
+      },
+      {
+        "text": "Two rotations"
+      }
+    ],
+    "answer": 2,
+    "image" : "./assests/images/question/5.png"
+  },
+  {
+    "questionNo": 6,
+    "question": [
+      "What transformations would be needed to get from P to Q?"
+    ],
+    "options": [
+      {
+        "text": "Two reflections"
+      },
+      {
+        "text": "Translation and rotation"
+      },
+      {
+        "text": "Reflection and translation"
+      },
+      {
+        "text": "Three translations"
+      }
+    ],
+    "answer": 1,
+    "image" : "./assests/images/question/6.png"
+  },
+  {
+    "questionNo": 7,
+    "question": [
+      "A triangle is in the third quadrant. It is first reflected over the y-axis and then reflected over the x-axis. What will be the final position of the triangle?"
+    ],
+    "options": [
+      {
+        "text": "In the 1st Quadrant"
+      },
+      {
+        "text": "In the 2nd Quadrant"
+      },
+      {
+        "text": "In the 3rd Quadrant"
+      },
+      {
+        "text": "In the 4th Quadrant"
+      }
+    ],
+    "answer": 0
+  },
+  {
+    "questionNo": 8,
+    "question": [
+      "A rectangle is in the second quadrant. It is first reflected over the x-axis, then reflected over the y-axis, and finally reflected over the x-axis. What will be the final position of the rectangle?"
+    ],
+    "options": [
+      {
+        "text": "In the 1st Quadrant"
+      },
+      {
+        "text": "In the 2nd Quadrant"
+      },
+      {
+        "text": "In the 3rd Quadrant"
+      },
+      {
+        "text": "In the 4th Quadrant"
+      }
+    ],
+    "answer": 0
+  },
+  {
+    "questionNo": 9,
+    "question": [
+      "A triangle in the third quadrant is first rotated 180\u00b0 clockwise about the origin, then reflected over the x-axis, and then reflected over the y-axis. What will be the final position of the triangle?"
+    ],
+    "options": [
+      {
+        "text": "In the 1st Quadrant"
+      },
+      {
+        "text": "In the 2nd Quadrant"
+      },
+      {
+        "text": "In the 3rd Quadrant"
+      },
+      {
+        "text": "Original position"
+      }
+    ],
+    "answer": 3
+  },
+  {
+    "questionNo": 10,
+    "question": [
+      "A square is in the fourth quadrant. It is first rotated 180\u00b0 clockwise about the origin, then reflected over the x-axis, and finally reflected over the y-axis. What will be the final position of the square?"
+    ],
+    "options": [
+      {
+        "text": "In the 1st Quadrant"
+      },
+      {
+        "text": "In the 2nd Quadrant"
+      },
+      {
+        "text": "In the 3rd Quadrant"
+      },
+      {
+        "text": "In the 4th Quadrant"
+      }
+    ],
+    "answer": 3
+  }
+
+      ]
+    }
+  ]
+}
